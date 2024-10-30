@@ -1,0 +1,19 @@
+{
+  "options": [
+    {
+      "chartTitle": "Wind power production - real time data",
+      "option": "Wind power production based on the real-time measurements in Fingrid's operation control system.",
+      "chartId": "181"
+    },
+    {
+      "chartTitle": "Electricity production in Finland - real time data",
+      "option": "Electricity production in Finland based on the real-time measurements in Fingrid's operation control system.",
+      "chartId": "192"
+    },
+    {
+      "chartTitle": "Electricity consumption in Finland - real time data",
+      "option": "Electricity consumption in Finland is calculated based on production and import/export. Production information and import/export are based on the real-time measurements in Fingrid's operation control system.",
+      "chartId": "193"
+    }
+  ]
+}
