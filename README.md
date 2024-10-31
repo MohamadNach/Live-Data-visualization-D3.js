@@ -23,13 +23,6 @@ This project was built with the following tools and libraries:
 - **Tailwind CSS**: Utility-first CSS framework
 - **Day.js**: Date handling
 
-### Development Dependencies
-
-- **ESLint**: Linting utility for JavaScript and TypeScript.
-- **PostCSS & Tailwind CSS**: CSS processing and utility styling.
-- **TypeScript**: Typed JavaScript.
-- **Vite**: Bundler with React plugin.
-
 ## Installation Instructions
 
 This project is deployed on Netlify, so installation is not required for users. A [link to deployment](#) will be provided here once available.
