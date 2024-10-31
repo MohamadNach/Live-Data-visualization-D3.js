@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/services/dataservice.ts","./src/components/chart.tsx","./src/components/datepickers.tsx","./src/components/options.tsx","./src/components/title.tsx","./src/redux/rootreducer.ts","./src/redux/store.ts","./src/redux/slices/dateslice.ts","./src/redux/slices/optionsslice.ts"],"version":"5.6.3"}

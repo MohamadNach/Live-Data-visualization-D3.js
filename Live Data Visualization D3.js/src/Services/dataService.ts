@@ -28,6 +28,9 @@ export const fetchData = async (
       {
         headers: {
           'x-api-key': apiKey,
+          'Access-Control-Allow-Origin': '*', // Added header
+          'Access-Control-Allow-Headers': 'Content-Type, Authorization', // Optional, based on server requirements
+          'Access-Control-Allow-Methods': 'GET, POST, OPTIONS', // Optional, based on server requirements
         },
       }
     );
