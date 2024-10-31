@@ -1,5 +1,7 @@
 # Live Data Visualization using D3.js
 
+![Energy Data Visualization](./Documentation/Electricity-consumption-in-Finland.jpg)
+
 ## Description
 
 This project provides a live data visualization of energy information in Finland, specifically focusing on wind power generation, electricity production, and consumption. Users can select a date range and data type to view specific datasets. This visualization is powered by D3.js for dynamic charting and React for UI management.
@@ -47,4 +49,4 @@ You may use this code but should provide attribution to the original author.
 
 ## Contact
 
-For questions or feedback, please contact the project owner at [mohamad.nachawati@proton.me](mailto:your-email@example.com).
+For questions or feedback, please contact the project owner at [mohamadnach.github.io](https://mohamadNach.github.io).
