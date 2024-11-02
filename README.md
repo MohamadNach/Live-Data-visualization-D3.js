@@ -36,9 +36,10 @@ This project was built with the following tools and libraries:
 
 ## Usage Instructions
 
-- Get API key from [Fingrid](https://data.fingrid.fi/en/instructions) website.
+- Create a developer acount on [Fingrid](https://data.fingrid.fi/en/instructions) website and follow Api instructions.
+- You should find Primary key at [Profile](https://developer-data.fingrid.fi/profile) tabe.
 - Place API key in your .env file.
-- Start the application
+- Start the application using the following:
 
 ```sh
   npm run dev
