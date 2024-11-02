@@ -4,6 +4,7 @@ import dayjs from 'dayjs';
 
 const apiLink = import.meta.env.VITE_APP_API_LINK;
 const corsProxy = import.meta.env.VITE_APP_CORS_PROXY;
+const corsProxy2 = import.meta.env.VITE_APP_CORS_PROXY2;
 const apiKey = import.meta.env.VITE_APP_API_KEY;
 
 // Helper function to calculate expected number of observations
