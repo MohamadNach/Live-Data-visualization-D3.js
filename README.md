@@ -62,7 +62,3 @@ You may use this code but should provide attribution to the original author.
 ## Contact
 
 For questions or feedback, please contact the project owner at [mohamadnach.github.io](https://mohamadNach.github.io).
-
-```
-
-```
