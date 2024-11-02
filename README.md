@@ -27,11 +27,22 @@ This project was built with the following tools and libraries:
 
 ## Installation Instructions
 
-This project is deployed on Netlify, so installation is not required for users. A [link to deployment](#) will be provided here once available.
+- Clone the repository and change the directory
+
+```sh
+ git clone https://github.com/MohamadNach/Live-Data-visualization-D3.js.git
+ cd Live-Data-visualization-D3.js
+```
 
 ## Usage Instructions
 
-After accessing the deployment link, select a date range and data type from the provided options to view live data charts.
+- Get API key from [Fingrid](https://data.fingrid.fi/en/instructions) website.
+- Place API key in your .env file.
+- Start the application
+
+```sh
+  npm run dev
+```
 
 ## API Information
 
@@ -50,3 +61,7 @@ You may use this code but should provide attribution to the original author.
 ## Contact
 
 For questions or feedback, please contact the project owner at [mohamadnach.github.io](https://mohamadNach.github.io).
+
+```
+
+```
